@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#grey {
+  background-color: #d8d8d8;
+  height: 70px;
+  padding: 15px;
+}
+
+#square {
+  height: 70px;
+  width: 70px;
+  background-color: #5b8fdc;
+}
+
+#paragraph {
+  padding: 40px;
+}
+
+#blue,
+#turquoise,
+#green,
+#yellow {
+  height: 150px;
+}
+
+#blue {
+  background-color: #5d8fdc;
+}
+#turquoise {
+  background-color: #7be0c3;
+}
+#green {
+  background-color: #c2e791;
+}
+#yellow {
+  background-color: #f5e752;
+}
+#question-mark {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  line-height: 50px;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  bottom: 10px;
+  right: 5px;
+  border-radius: 50%;
+  font-size: 30px;
+}
